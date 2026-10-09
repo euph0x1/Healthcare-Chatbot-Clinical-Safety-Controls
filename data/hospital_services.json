@@ -1,0 +1,40 @@
+{
+  "departments": [
+    {
+      "name": "Cardiology",
+      "location": "Block A, 2nd Floor",
+      "timings": "Mon-Sat, 9:00 AM - 4:00 PM",
+      "doctors": ["Dr. Anitha Rao", "Dr. Vikram Shetty"]
+    },
+    {
+      "name": "General Medicine",
+      "location": "Block A, Ground Floor",
+      "timings": "Mon-Sat, 8:00 AM - 6:00 PM",
+      "doctors": ["Dr. Karthik Iyer", "Dr. Sneha Pillai"]
+    },
+    {
+      "name": "Pediatrics",
+      "location": "Block B, 1st Floor",
+      "timings": "Mon-Sat, 9:00 AM - 5:00 PM",
+      "doctors": ["Dr. Meera Nambiar"]
+    },
+    {
+      "name": "Orthopedics",
+      "location": "Block A, 3rd Floor",
+      "timings": "Mon-Fri, 10:00 AM - 4:00 PM",
+      "doctors": ["Dr. Rajesh Kumar"]
+    },
+    {
+      "name": "Dermatology",
+      "location": "Block B, Ground Floor",
+      "timings": "Tue, Thu, Sat, 10:00 AM - 2:00 PM",
+      "doctors": ["Dr. Farhan Ahmed"]
+    }
+  ],
+  "hospital_info": {
+    "visiting_hours": "4:00 PM - 6:00 PM daily",
+    "opd_registration": "8:00 AM - 1:00 PM, Block A Ground Floor Reception",
+    "billing_desk": "Block A Ground Floor, 8:00 AM - 8:00 PM",
+    "emergency_contact": "This assistant cannot handle emergencies. Call your local emergency number or go to the nearest ER immediately."
+  }
+}
