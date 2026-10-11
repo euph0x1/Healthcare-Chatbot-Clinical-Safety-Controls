@@ -6,6 +6,7 @@ Usage:
     python scripts/build_vector_store.py
 """
 
+
 import sys
 from pathlib import Path
 
